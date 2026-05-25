@@ -1,6 +1,21 @@
-# Basic Phishing URL Detection System
+# 🛡️ Phishing URL Detection using AI
+
 ## Team Members
-Tisha Pore
- Member 2 -Baikan Ashritha
- ## Project Description
- This project detects suspicious phishing URLs and warns users before clicking unsafe links.
+- Tisha Pore
+- Baikan Ashritha
+
+---
+
+# Project Overview
+
+This project detects phishing URLs using AI and Machine Learning.
+
+---
+
+# Folder Structure
+
+```text
+images/ → screenshots
+docs/ → reports
+assets/ → resources
+```
