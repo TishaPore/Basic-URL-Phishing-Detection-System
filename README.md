@@ -1,21 +1,19 @@
-# 🛡️ Phishing URL Detection using AI
+# Phishing URL Detection System
+
+A collaborative cybersecurity project focused on phishing URL detection.
 
 ## Team Members
 - Tisha Pore
 - Baikan Ashritha
 
----
+## Features
+- Detect suspicious URLs
+- Simple web interface
+- Organized repository structure
 
-# Project Overview
-
-This project detects phishing URLs using AI and Machine Learning.
-
----
-
-# Folder Structure
-
-```text
-images/ → screenshots
-docs/ → reports
-assets/ → resources
-```
+## Technologies Used
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
