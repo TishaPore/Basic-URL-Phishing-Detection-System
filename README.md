@@ -1,15 +1,13 @@
-# Phishing URL Detection System
+# Basic URL Phishing Detection App
 
-A collaborative cybersecurity project focused on phishing URL detection.
-
-## Team Members
-- Tisha Pore
-- Baikan Ashritha
+## Project Description
+This project detects whether a URL is phishing or legitimate using machine learning techniques.
 
 ## Features
-- Detect suspicious URLs
-- Simple web interface
-- Organized repository structure
+- URL analysis
+- Phishing detection
+- User-friendly interface
+- Fast prediction
 
 ## Technologies Used
 - Python
@@ -17,3 +15,12 @@ A collaborative cybersecurity project focused on phishing URL detection.
 - HTML
 - CSS
 - JavaScript
+
+## Installation
+1. Clone repository
+2. Install requirements
+3. Run app.py
+
+## Team Members
+- Tisha Pore
+- Baikan Ashritha
