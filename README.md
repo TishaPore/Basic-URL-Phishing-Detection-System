@@ -24,3 +24,8 @@ This project detects whether a URL is phishing or legitimate using machine learn
 ## Team Members
 - Tisha Pore
 - Baikan Ashritha
+  
+## Demo Video
+
+Video Link:
+https://drive.google.com/file/d/18gdBgJyO3hYzhFGo9cYasYbSfBT0O3Oi/view?usp=sharing
