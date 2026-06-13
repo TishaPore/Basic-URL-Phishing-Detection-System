@@ -21,10 +21,6 @@ This project detects whether a URL is phishing or legitimate using machine learn
 2. Install requirements
 3. Run app.py
 
-## Team Members
-- Tisha Pore
-- Baikan Ashritha
-  
 ## Demo Video
 
 Video Link:
